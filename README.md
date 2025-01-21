@@ -6,4 +6,4 @@ Postgre SQL
 PgAdmin4
 
 Schema- Music Store Database
-![Uploading schema_diagram.png…]()
+
